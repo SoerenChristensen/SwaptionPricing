@@ -19,5 +19,4 @@ the 2-factor CIR model, and relevant S&U approximation errors.
 The notebook Thesis Result Plots.ipynb contains code for plotting swaption prices, normal
 volatilities and approximation errors in Section 8.
 
-The notebook Thesis Normal Volatility.ipynb contains code for computing normal volatil
-ities, in this case implemented for the 3-factor Vasicek model
+The notebook Thesis Normal Volatility.ipynb contains code for computing normal volatilities.
