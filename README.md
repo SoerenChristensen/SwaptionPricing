@@ -1,6 +1,6 @@
 # MSc Approximate Swaption Pricing in an Affine Framework
 
-This repository contains Python code for the simulations and calculations behind the Master's Thesis "Approximate Swaption Pricing in an Affine Framework" by Søren Alexander Christensen, cand.scient.oecon. from the University of Copenhagen.
+This repository contains Python code for the simulations, calculations and visualizations behind the Master's Thesis "Approximate Swaption Pricing in an Affine Framework" by Søren Alexander Christensen, cand.scient.oecon. from the University of Copenhagen.
 
 The notebook Vasicek2 and CIR2.ipynb contains code for Monte Carlo pricing and
 Singleton and Umantsev (S&U) approximation in the 2-factor Vasicek model and the 2-factor CIR model.
